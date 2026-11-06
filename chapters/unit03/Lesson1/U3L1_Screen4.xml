@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 3: The plant world</B>]]></title>
+<title><![CDATA[<B>Photosynthesis</B>]]></title>
+
+<text><![CDATA[<B>There are six words related to the plant world. Go right, left, down, or diagonally to find them.</B>]]></text>
+
+<text><![CDATA[<b>CHLOROPHYLL</b>]]></text>
+<text><![CDATA[<b>LEAF</b>]]></text>
+<text><![CDATA[<b>CARBON</b>]]></text>
+<text><![CDATA[<b>GLUCOSE</b>]]></text>
+<text><![CDATA[<b>OXYGEN</b>]]></text>
+<text><![CDATA[<b>BOTANY</b>]]></text>
+
+
+
+<grid>
+<text><![CDATA[A]]></text>
+<text><![CDATA[B]]></text>
+<text><![CDATA[C]]></text>
+<text><![CDATA[D]]></text>
+<text><![CDATA[E]]></text>
+<text><![CDATA[F]]></text>
+<text><![CDATA[G]]></text>
+<text><![CDATA[H]]></text>
+<text><![CDATA[I]]></text>
+<text><![CDATA[J]]></text>
+<text><![CDATA[K]]></text>
+<text><![CDATA[L]]></text>
+<text><![CDATA[M]]></text>
+<text><![CDATA[N]]></text>
+<text><![CDATA[O]]></text>
+<text><![CDATA[P]]></text>
+<text><![CDATA[Q]]></text>
+<text><![CDATA[R]]></text>
+<text><![CDATA[S]]></text>
+<text><![CDATA[T]]></text>
+<text><![CDATA[U]]></text>
+<text><![CDATA[V]]></text>
+<text><![CDATA[W]]></text>
+<text><![CDATA[X]]></text>
+<text><![CDATA[Y]]></text>
+<text><![CDATA[Z]]></text>
+</grid>
+
+<feedback>
+<correct><![CDATA[That's correct. Well done!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's not the right answer.]]></wrong2>
+<showanswer><![CDATA[Here's the right answer]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<submit><![CDATA[<B>restart</B>]]></submit>
+
+</data>
+</framexml>  

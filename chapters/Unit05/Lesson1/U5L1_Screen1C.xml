@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 5: Environment</b>]]></titel>
+<titel><![CDATA[<b>Types of habitats</b>]]></titel>
+
+<heading><![CDATA[<b>Rainforests</b>]]></heading>
+
+<rubric><![CDATA[tropical rainforest]]></rubric>
+<rubric><![CDATA[temperate rainforest]]></rubric>
+<rubric><![CDATA[emergent zone]]></rubric>
+<rubric><![CDATA[canopy zone]]></rubric>
+<rubric><![CDATA[understorey]]></rubric>
+<rubric><![CDATA[forest floor]]></rubric>
+
+<text><![CDATA[Rainforests are the wettest places on Earth.]]></text>
+<text><![CDATA[Tropical rainforests are much wetter than temperate rainforests.]]></text>
+<text><![CDATA[The emergent zone has giant trees that receive lots of sunlight and are home to birds and insects. ]]></text>
+<text><![CDATA[The canopy zone has smaller trees, which receive less sunlight. These house lots of mammals and reptiles as well as birds and insects.]]></text>
+<text><![CDATA[The understorey is home to smaller plants. It gets little sunlight but lots of moisture.]]></text>
+<text><![CDATA[The forest floor is the ground where large animals and lots of insects live. Very little sunlight reaches the floor.]]></text>
+
+
+</data>
+</framexml>  

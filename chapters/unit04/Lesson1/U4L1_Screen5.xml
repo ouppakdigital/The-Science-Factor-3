@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 4: Food and diet</B>]]></title>
+<title><![CDATA[<B>Carnivores, herbivores and omnivores</B>]]></title>
+
+<text><![CDATA[<B>Colour all carnivores red, all herbivores green, and all omnivores yellow. Click the right colour for each animal.</B>]]></text>
+
+<text><![CDATA[<B>carnivore</B>]]></text>
+<text><![CDATA[<B>herbivore </B>]]></text>
+<text><![CDATA[<B>omnivore</B>]]></text>
+
+<text><![CDATA[<B>leopard</B>]]></text>
+<text><![CDATA[<B>elephant</B>]]></text>
+<text><![CDATA[<B>lion</B>]]></text>
+<text><![CDATA[<B>chicken</B>]]></text>
+<text><![CDATA[<B>goat</B>]]></text>
+<text><![CDATA[<B>fox</B>]]></text>
+<text><![CDATA[<B>camel</B>]]></text>
+<text><![CDATA[<B>bear</B>]]></text>
+<text><![CDATA[<B>crow</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's not the right answer.]]></wrong2>
+<showanswer><![CDATA[Here's the right answer]]></showanswer>
+<rank1><![CDATA[Hmm... I'm sure you'll do better next time]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<submit><![CDATA[<B>restart</B>]]></submit>
+
+</data>
+</framexml>  

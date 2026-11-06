@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 5: Environment</b>]]></titel>
+<titel><![CDATA[<b>Types of habitats</b>]]></titel>
+
+<heading><![CDATA[<b>Polar regions</b>]]></heading>
+
+<rubric><![CDATA[<b>North Pole</b>]]></rubric>
+<rubric><![CDATA[<b>South Pole</b>]]></rubric>
+<rubric><![CDATA[Polar bears in the Arctic region have thick furs.]]></rubric>
+<rubric><![CDATA[Antarctic terns have thick feathers.]]></rubric>
+<rubric><![CDATA[Penguins in Antarctica have a thick layer of fat.]]></rubric>
+
+
+<text><![CDATA[The large areas of the globe surrounding the North and South Poles are called <B>Polar regions</B>.]]></text>
+<text><![CDATA[The South Polar region is called <B>Antarctica</B>.]]></text>
+<text><![CDATA[The North Polar region is called the <B>Arctic</B>.]]></text>
+<text><![CDATA[The Polar regions are very cold and dry, and so are also known as <B>cold deserts</B>.]]></text>
+<text><![CDATA[Antarctica is the driest continent on Earth.]]></text>
+<text><![CDATA[The Arctic has no land; it is entirely made of ice over the Arctic Ocean.]]></text>
+
+
+
+</data>
+</framexml>  

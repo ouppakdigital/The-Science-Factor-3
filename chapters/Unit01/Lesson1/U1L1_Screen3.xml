@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option for the following questions.</b>]]></rubric>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[The retina is a part of our _______.]]></text>
+<option1><![CDATA[<b>nose</b>]]></option1>
+<option2><![CDATA[<b>eyes</b>]]></option2>
+<option3><![CDATA[<b>ears</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The anvil is a small bone in the _______.]]></text>
+<option1><![CDATA[<b>nose</b>]]></option1>
+<option2><![CDATA[<b>eyes</b>]]></option2>
+<option3><![CDATA[<b>ears</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The __________ traps dust particles from our eyes.]]></text>
+<option1><![CDATA[<b>eyelashes</b>]]></option1>
+<option2><![CDATA[<b>eyebrows</b>]]></option2>
+<option3><![CDATA[<b>cilia</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The __________ is/are the largest sense organ.]]></text>
+<option1><![CDATA[<b>ears</b>]]></option1>
+<option2><![CDATA[<b>tongue</b>]]></option2>
+<option3><![CDATA[<b>skin</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[This sense organ has taste buds on it.]]></text>
+<option1><![CDATA[<b>ears</b>]]></option1>
+<option2><![CDATA[<b>tongue</b>]]></option2>
+<option3><![CDATA[<b>nose</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question5>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Good job!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong again.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That's wonderful!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

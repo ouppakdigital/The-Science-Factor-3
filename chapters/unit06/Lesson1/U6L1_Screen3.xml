@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct answer for each of the following.</b>]]></rubric>
+
+<question1>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[My atoms are packed tightly together. I have a definite shape, size, and volume. What am I?]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[My molecules have room enough to move. So I can flow. What am I?]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[I can be hard or soft, light, or heavy. What am I?]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[I have definite mass and weight but no definite shape. What am I?]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[You can't always see me but I'm  there. What am I? ]]></text>
+<option1><![CDATA[<b>solid</b>]]></option1>
+<option2><![CDATA[<b>liquid</b>]]></option2>
+<option3><![CDATA[<b>gas</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Great work!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! You are marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+
+</data>
+</framexml>  

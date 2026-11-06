@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 2 : The Animal World</b>]]></title>
+<title><![CDATA[<b>Types of Animals</b>]]></title>
+
+
+<text><![CDATA[The eyes help one to see the world around.]]></text>
+<text><![CDATA[Light rays fall on an object and bounce back to the eye.]]></text>
+<text><![CDATA[These rays enter the eye and fall on the retina to form an image of that object.]]></text>
+<text><![CDATA[When the eye sees the object, it appears to be upside down.]]></text>
+<text><![CDATA[It is the brain that turns the image the right way around.]]></text>
+<text><![CDATA[The eyelids close quickly if the brain senses danger to our eyes.]]></text>
+<text><![CDATA[The eyelashes trap dust and other tiny particles from getting into our eyes.]]></text>
+<text><![CDATA[Our eyes remain the same size all through our life.]]></text>
+<text><![CDATA[It is the brain that turns the image the right way around.]]></text>
+
+
+
+<Caption><![CDATA[<B>eyelashes</B>]]></Caption>
+<Caption><![CDATA[<B>eyelids</B>]]></Caption>
+<Caption><![CDATA[<B>human eye</B>]]></Caption>
+<Caption><![CDATA[<B>optic nerve</B>]]></Caption>
+<Caption><![CDATA[<B>lens</B>]]></Caption>
+<Caption><![CDATA[<B>retina</B>]]></Caption>
+
+
+
+</data>
+</framexml>  

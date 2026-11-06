@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>+
+
+
+<rubric><![CDATA[<b>Click on the correct option for each question.</b>]]></rubric>
+
+
+<feedback>
+<correct><![CDATA[That's right! Well done! ]]></correct>
+<wrong1><![CDATA[Err...That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops..... That's incorrect too.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was superb!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+<question1>
+<text><![CDATA[<B>_________ have definite mass, volume, and shape.</B>]]></text>
+<option1><![CDATA[<b>Solids</b>]]></option1>
+<option2><![CDATA[<b>Liquids</b>]]></option2>
+<option3><![CDATA[<b>Gases</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question1>
+
+
+<question2>
+<text><![CDATA[<B>_________ is a liquid. </B>]]></text>
+<option1><![CDATA[<b>Chair</b>]]></option1>
+<option2><![CDATA[<b>Water</b>]]></option2>
+<option3><![CDATA[<b>Computer</b>]]></option3>
+<answer1><![CDATA[2]]></answer1>
+</question2>
+
+<question3>
+<text><![CDATA[<B>Stone, table, and salt are examples of _____________.</B>]]></text>
+<option1><![CDATA[<b>solids</b>]]></option1>
+<option2><![CDATA[<b>liquids</b>]]></option2>
+<option3><![CDATA[<b>gases</b>]]></option3>
+<answer1><![CDATA[1]]></answer1>
+</question3>
+
+<question4>
+<text><![CDATA[<B>_________ molecules have lots of room between them.</B>]]></text>
+<option1><![CDATA[<b>Solid</b>]]></option1>
+<option2><![CDATA[<b>Liquid</b>]]></option2>
+<option3><![CDATA[<b>Gas</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question4>
+
+
+<question5>
+<text><![CDATA[<B>Liquid molecules don't have a definite ____________.</B>]]></text>
+<option1><![CDATA[<b>volume</b>]]></option1>
+<option2><![CDATA[<b>mass</b>]]></option2>
+<option3><![CDATA[<b>shape</b>]]></option3>
+<answer1><![CDATA[3]]></answer1>
+</question5>
+
+
+
+
+
+</data>
+</framexml>  

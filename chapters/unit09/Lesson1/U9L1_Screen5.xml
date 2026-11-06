@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 8: Heat and light</B>]]></title>
+<title><![CDATA[<B>Heat and temperature</B>]]></title>
+
+<text><![CDATA[<B>Solve the crossword puzzle.</B>]]></text>
+<text><![CDATA[<B>Click 'SUBMIT' once you have filled a word.</B>]]></text>
+<Submit><![CDATA[<B>SUBMIT</B>]]></Submit>
+
+<hint>
+<text><![CDATA[<b>Across:</b>]]></text>
+<text><![CDATA[<b>Down:</b>]]></text>
+<across>
+<text><![CDATA[<b>It is used to measure temperature.</b>]]></text>
+<text><![CDATA[<b>It is a unit for measuring temperature.</b>]]></text>
+<text><![CDATA[<b>It is a scale for measuring temperature.</b>]]></text>
+<text><![CDATA[<b>It is a scale for measuring temperature.</b>]]></text>
+</across>
+<down>
+<text><![CDATA[<b>It tells us the coldness or hotness of a substance.</b>]]></text>
+<text><![CDATA[<b>It is a form of energy.</b> ]]></text>
+<text><![CDATA[<b>It boils at 100&#176;C.</b>]]></text>
+<text><![CDATA[<b>Heat travels from this body to a colder body.</b>]]></text>
+<text><![CDATA[<b>At this &#176;Celsius, water freezes to ice.</b>]]></text>
+</down>
+</hint>
+
+<feedback>
+<correct><![CDATA[That's correct! Great work!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Not really. Here's the correct answer.]]></wrong2>
+<showanswer><![CDATA[This is the correct option.]]></showanswer>
+<rank1><![CDATA[You can do better.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[That was marvellous!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+<grid>
+<text><![CDATA[A]]></text>0
+<text><![CDATA[B]]></text>1
+<text><![CDATA[C]]></text>2
+<text><![CDATA[D]]></text>3
+<text><![CDATA[E]]></text>4
+<text><![CDATA[F]]></text>5
+<text><![CDATA[G]]></text>6
+<text><![CDATA[H]]></text>7
+<text><![CDATA[I]]></text>8
+<text><![CDATA[J]]></text>9
+<text><![CDATA[K]]></text>10
+<text><![CDATA[L]]></text>11
+<text><![CDATA[M]]></text>12
+<text><![CDATA[N]]></text>13
+<text><![CDATA[O]]></text>14
+<text><![CDATA[P]]></text>15
+<text><![CDATA[Q]]></text>16
+<text><![CDATA[R]]></text>17
+<text><![CDATA[S]]></text>18
+<text><![CDATA[T]]></text>19
+<text><![CDATA[U]]></text>20
+<text><![CDATA[V]]></text>21
+<text><![CDATA[W]]></text>22
+<text><![CDATA[X]]></text>23
+<text><![CDATA[Y]]></text>24
+<text><![CDATA[Z]]></text>25
+</grid>
+
+
+</data>
+</framexml>  

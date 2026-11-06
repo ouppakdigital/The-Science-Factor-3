@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 2 : The Animal World</b>]]></title>
+<title><![CDATA[<b>Types of Animals</b>]]></title>
+
+
+<text><![CDATA[The queen bee lays the eggs in a honeycomb cell.]]></text>
+<text><![CDATA[The egg hatches after three to four days and a larva crawls out.]]></text>
+
+
+<Caption><![CDATA[<b>Adult</b>]]></Caption>
+<Caption><![CDATA[<b>Eggs</b>]]></Caption>
+<Caption><![CDATA[<b>Pupa</b>]]></Caption>
+<Caption><![CDATA[<b>Larva</b>]]></Caption>
+
+
+
+
+</data>
+</framexml>  

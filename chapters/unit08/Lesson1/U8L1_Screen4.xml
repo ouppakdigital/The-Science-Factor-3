@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 7: Force, work and energy</B>]]></title>
+<title><![CDATA[<B>How simple tools work</B>]]></title>
+
+<text><![CDATA[<b>Click on either Right or Wrong for the following sentences.</b>]]></text>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Force is a push or a pull.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The harder the force, the slower is the speed of the object.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[Gravity is a force which pulls two objects towards each other.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[When force is applied on an object and the object moves, we say work has been done.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[When a match is struck, the chemical energy stored in it produces heat and light.]]></text>
+<text><![CDATA[<B>Right</B>]]></text>
+<text><![CDATA[<B>Wrong</B>]]></text>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[Err.. That's not correct.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

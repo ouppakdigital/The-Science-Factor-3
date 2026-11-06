@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 2 : The Animal World</b>]]></title>
+<title><![CDATA[<b>Types of Animals</b>]]></title>
+
+
+<text><![CDATA[The ear has three of the smallest bones in the human body.]]></text>
+<text><![CDATA[The outer ear collects sound as it passes by the ear.]]></text>
+<text><![CDATA[The sound then makes its way into the middle ear and hits the eardrum.]]></text>
+<text><![CDATA[The eardrum turns the sound into vibrations. These vibrations move into the inner ear.]]></text>
+
+
+<Caption><![CDATA[<B>hammer</B>]]></Caption>
+<Caption><![CDATA[<B>anvil</B>]]></Caption>
+<Caption><![CDATA[<B>stirrup</B>]]></Caption>
+<Caption><![CDATA[<B>outer ear</B>]]></Caption>
+<Caption><![CDATA[<B>middle ear</B>]]></Caption>
+<Caption><![CDATA[<B>inner ear</B>]]></Caption>
+
+
+</data>
+</framexml>  

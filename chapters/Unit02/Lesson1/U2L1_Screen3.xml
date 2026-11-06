@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<B>Unit 2 : The Animal World</B>]]></title>
+<title><![CDATA[<B>Types of Animals</B>]]></title>
+<text><![CDATA[<b>Are these statements true or false? Click on the correct option to answer.  </b>]]></text>
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Tadpoles grow up to be adult honeybees.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[The worker bees lay the eggs in the cells.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The study of animals is called zoology.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[Male bees are called drones.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Pupa is the second stage in the life cycle of a honey bee.]]></text>
+<text><![CDATA[<B>True</B>]]></text>
+<text><![CDATA[<B>False</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong2><![CDATA[Er...! That's incorrect.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was superb!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

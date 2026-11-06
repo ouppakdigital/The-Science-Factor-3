@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 3: The plant world</b>]]></title>
+<title><![CDATA[<b>Photosynthesis</b>]]></title>
+
+
+
+<rubric><![CDATA[<b>The study of plants is called botany.</b>]]></rubric>
+<rubric><![CDATA[<b>Click on the plant to know how photosynthesis takes place.</b>]]></rubric>
+
+<lbl><![CDATA[<b>water</b>]]></lbl>
+<lbl><![CDATA[<b>energy</b>]]></lbl>
+<lbl><![CDATA[<b>chlorophyll</b>]]></lbl>
+<lbl><![CDATA[<b>carbon dioxide</b>]]></lbl>
+<lbl><![CDATA[<b>Glucose is formed.</b>]]></lbl>
+<lbl><![CDATA[<b>Oxygen is released.</b>]]></lbl>
+<lbl><![CDATA[<b>Rainforest</b>]]></lbl>
+
+
+
+
+<text><![CDATA[The process by which plants make their food is called <B>photosynthesis</B>.]]></text>
+<text><![CDATA[Plants collect water from the ground and energy from the Sun.]]></text>
+<text><![CDATA[Plants breathe in carbon dioxide from the air.]]></text>
+<text><![CDATA[Photosynthesis takes place in the leaves.]]></text>
+<text><![CDATA[Leaves contain a substance called chlorophyll.]]></text>
+<text><![CDATA[Chlorophyll acts on sunlight to make it suitable for use in the process  of photosynthesis.]]></text>
+<text><![CDATA[When the changed sunlight is mixed with carbon dioxide and water, it makes a type of sugar called glucose.]]></text>
+<text><![CDATA[Glucose is the food that helps the plant to grow.]]></text>
+<text><![CDATA[The oxygen leaves the plant and goes into the air.]]></text>
+<text><![CDATA[<B>Rainforest</B>]]></text>
+
+
+</data>
+</framexml>  

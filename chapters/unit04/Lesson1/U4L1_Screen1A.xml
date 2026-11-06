@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 4: Food and diet</b>]]></title>
+<title><![CDATA[<b>Carnivores, herbivores and omnivores</b>]]></title>
+
+<rubric><![CDATA[<b>eagle</b>]]></rubric>
+<rubric><![CDATA[<b>lion</b>]]></rubric>
+
+<text><![CDATA[Animals that eat only meat are called <B>carnivores</B>.]]></text>
+<text><![CDATA[Eagles and hawks eat fish, small birds, small rodents, and small reptiles.]]></text>
+<text><![CDATA[Lions and tigers eat giraffes, gazelles, buffaloes, and other large animals.]]></text>
+
+
+
+
+</data>
+</framexml>  

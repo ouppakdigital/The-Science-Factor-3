@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<title><![CDATA[<b>Unit 4: Food and diet</b>]]></title>
+<title><![CDATA[<b>Teeth</b>]]></title>
+
+<rubric><![CDATA[<b>Functions of teeth:</b>]]></rubric>
+
+<lbl><![CDATA[<b>human</b>]]></lbl>
+<lbl><![CDATA[<b>horse</b>]]></lbl>
+<lbl><![CDATA[<b>incisors</b>]]></lbl>
+
+<text><![CDATA[Incisors are the large and strong teeth at the front of the mouth.]]></text>
+<text><![CDATA[Incisors are used for biting, cutting, and holding food.]]></text>
+<text><![CDATA[Humans have 8 incisors while horses have 12 incisors.]]></text>
+
+
+
+
+
+</data>
+</framexml>  

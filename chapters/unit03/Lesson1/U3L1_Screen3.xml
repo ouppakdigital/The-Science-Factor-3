@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+
+<rubric><![CDATA[<b>Drag the correct word to the correct space.</b>]]></rubric>
+
+<text><![CDATA[1.]]></text>
+<text><![CDATA[Plants release ________________ during photosynthesis.]]></text>
+<text><![CDATA[2.]]></text>
+<text><![CDATA[Photosynthesis takes place in the ________________.]]></text>
+<text><![CDATA[3.]]></text>
+<text><![CDATA[The ________________ changes the sunlight so that it can be used by the plant.]]></text>
+<text><![CDATA[4.]]></text>
+<text><![CDATA[The food used by plants to grow is called ________________.]]></text>
+<text><![CDATA[5.]]></text>
+<text><![CDATA[Plants breathe in ________________ from the air during photosynthesis.]]></text>
+
+<Drag><![CDATA[<B>oxygen</B>]]></Drag>
+<Drag><![CDATA[<B>leaves</B>]]></Drag>
+<Drag><![CDATA[<B>chlorophyll</B>]]></Drag>
+<Drag><![CDATA[<B>glucose</B>]]></Drag>
+<Drag><![CDATA[<B>carbon dioxide</B>]]></Drag>
+
+
+<answer><![CDATA[<B>oxygen</B>]]></answer>
+<answer><![CDATA[<B>leaves</B>]]></answer>
+<answer><![CDATA[<B>chlorophyll</B>]]></answer>
+<answer><![CDATA[<B>glucose</B>]]></answer>
+<answer><![CDATA[<B>carbon dioxide</B>]]></answer>
+
+
+<feedback>
+<correct><![CDATA[That's correct! Well done! ]]></correct>
+<wrong1><![CDATA[Oops! That's incorrect. Try again]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+
+
+</data>
+</framexml>  

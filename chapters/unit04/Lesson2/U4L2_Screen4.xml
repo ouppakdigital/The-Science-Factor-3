@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Chapters -->
+<framexml>
+<data>
+<titel><![CDATA[<b>Unit 4: Food and diet</b>]]></titel>
+<titel><![CDATA[<b>Teeth</b>]]></titel>
+
+
+<rubric><![CDATA[<b>Click on the correct option for each question.</b>]]></rubric>
+
+
+<text><![CDATA[<B>We help the lion to tear the meat. Who are we?</B>]]></text>
+<text><![CDATA[<B>incisors</B>]]></text>
+<text><![CDATA[<B>canines</B>]]></text>
+<text><![CDATA[<B>premolars</B>]]></text>
+<text><![CDATA[<B>molars</B>]]></text>
+
+<text><![CDATA[<B>We help the horse to graze. Who are we?</B>]]></text>
+<text><![CDATA[<B>incisors</B>]]></text>
+<text><![CDATA[<B>canines</B>]]></text>
+<text><![CDATA[<B>premolars</B>]]></text>
+<text><![CDATA[<B>molars</B>]]></text>
+
+<text><![CDATA[<B>We help the rabbit to nibble the carrot. Who are we?</B>]]></text>
+<text><![CDATA[<B>incisors</B>]]></text>
+<text><![CDATA[<B>canines</B>]]></text>
+<text><![CDATA[<B>premolars</B>]]></text>
+<text><![CDATA[<B>molars</B>]]></text>
+
+<text><![CDATA[<B>We help the bear to chew the fish. Who are we?</B>]]></text>
+<text><![CDATA[<B>incisors</B>]]></text>
+<text><![CDATA[<B>canines</B>]]></text>
+<text><![CDATA[<B>premolars</B>]]></text>
+<text><![CDATA[<B>molars</B>]]></text>
+
+<text><![CDATA[<B>We help the cow to crush the grass in its mouth. Who are we?</B>]]></text>
+<text><![CDATA[<B>incisors</B>]]></text>
+<text><![CDATA[<B>canines</B>]]></text>
+<text><![CDATA[<B>premolars</B>]]></text>
+<text><![CDATA[<B>molars</B>]]></text>
+
+<feedback>
+<correct><![CDATA[That's correct! Well done!]]></correct>
+<wrong1><![CDATA[Oh, no! That's not correct. Please try again.]]></wrong1>
+<wrong2><![CDATA[Oops! That's wrong too.]]></wrong2>
+<showanswer><![CDATA[This is the correct answer.]]></showanswer>
+<rank1><![CDATA[Hmm... You can do better than this.]]></rank1>
+<rank2><![CDATA[Good job!]]></rank2>
+<rank3><![CDATA[Wow! That was excellent!]]></rank3>
+<Score><![CDATA[Your score:]]></Score>
+</feedback>
+</data>
+</framexml>  
